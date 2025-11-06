@@ -1,2 +1,0 @@
-<style>body{margin: auto;} iframe{height: 100%; width: 100%;}</style>
-<iframe src="https://www.youtube-nocookie.com/embed/<?php echo $_GET['v']?>" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
